@@ -1,0 +1,192 @@
+sentences1,sentences2,is_similar
+The sun is shining brightly, It's a beautiful day outside,1
+The sun is shining brightly, It's pouring rain,0
+I love chocolate ice cream, Vanilla is my favorite flavor,0
+I love chocolate ice cream, Chocolate is the best,1
+The cat is sleeping peacefully, The dog is barking loudly,0
+The cat is sleeping peacefully, The cat is curled up on the couch,1
+I enjoy reading books, Watching movies is my favorite pastime,0
+I enjoy reading books, I can spend hours in a bookstore,1
+Learning new things is exciting, I find studying boring,0
+Learning new things is exciting, Exploring different topics broadens the mind,1
+Cooking dinner together is romantic, Ordering takeout is convenient,0
+Cooking dinner together is romantic, Sharing a meal strengthens bonds,1
+The flowers are blooming in the garden, Winter has arrived with snow,0
+The flowers are blooming in the garden, Spring has finally sprung,1
+Coffee keeps me awake, Tea helps me relax,0
+Coffee keeps me awake, Caffeine is essential in the morning,1
+I prefer texting to calling, I enjoy long phone conversations,0
+I prefer texting to calling, Instant messaging is more convenient,1
+Traveling broadens the mind, Staying in one place is comfortable,0
+Traveling broadens the mind, Exploring new cultures is enriching,1
+Exercise is important for health, Sitting all day leads to health problems,0
+Exercise is important for health, Regular physical activity improves well-being,1
+I prefer fiction over non-fiction, I enjoy reading autobiographies,0
+I prefer fiction over non-fiction, Escaping into imaginary worlds is delightful,1
+Music soothes the soul, Silence is golden,0
+Music soothes the soul, Melodies can evoke strong emotions,1
+The ocean is vast and mysterious, Lakes are calm and serene,0
+The ocean is vast and mysterious, Exploring the depths of the sea is thrilling,1
+Learning a new language is challenging, Speaking multiple languages is advantageous,0
+Learning a new language is challenging, Embracing different tongues opens doors,1
+Sunsets are breathtaking, Sunrises are equally beautiful,0
+Sunsets are breathtaking, Witnessing the day's end is mesmerizing,1
+I enjoy gardening in my free time, I prefer indoor plants to outdoor ones,0
+I enjoy gardening in my free time, Tending to flowers is therapeutic,1
+Rainbows are a rare sight, Rainbows appear after the rain,0
+Rainbows are a rare sight, Seeing colors in the sky is magical,1
+I prefer dogs to cats, Cats are independent creatures,0
+I prefer dogs to cats, Dogs are loyal companions,1
+Yoga helps me relax, Meditation calms the mind,0
+Yoga helps me relax, Finding inner peace is essential,1
+I enjoy cooking elaborate meals, Ordering takeout is convenient,0
+I enjoy cooking elaborate meals, Experimenting with recipes is fun,1
+Science fiction movies are entertaining, Romantic comedies are heartwarming,0
+Science fiction movies are entertaining, Exploring distant galaxies is fascinating,1
+I prefer summer over winter, Snowy days are cozy,0
+I prefer summer over winter, Warm weather brings joy,1
+Listening to podcasts is informative, Watching documentaries is educational,0
+Listening to podcasts is informative, Absorbing knowledge through audio is convenient,1
+I prefer tea over coffee, Tea has numerous health benefits,0
+I prefer tea over coffee, Sipping tea is a calming ritual,1
+Art museums inspire creativity, Sports stadiums host thrilling matches,0
+Art museums inspire creativity, Admiring masterpieces sparks imagination,1
+I enjoy hiking in the mountains, I prefer lounging on the beach,0
+I enjoy hiking in the mountains, Connecting with nature rejuvenates the soul,1
+Chocolate is my guilty pleasure, Fruits are a healthier snack option,0
+Chocolate is my guilty pleasure, Indulging in sweets brings happiness,1
+I prefer reading physical books, E-books are convenient for travel,0
+I prefer reading physical books, Turning the pages of a book is nostalgic,1
+I enjoy swimming in the ocean, I'm afraid of deep water,0
+I enjoy swimming in the ocean, Feeling weightless in the water is liberating,1
+The city never sleeps, Rural areas offer tranquility,0
+The city never sleeps, Urban life is vibrant and fast-paced,1
+I enjoy attending live concerts, I find loud music overwhelming,0
+I enjoy attending live concerts, Immersing in live performances is exhilarating,1
+Chocolate chip cookies are my favorite, Oatmeal raisin cookies are a close second,0
+Chocolate chip cookies are my favorite, Baking cookies fills the house with warmth,1
+I enjoy camping in the wilderness, I prefer staying in luxury hotels,0
+I enjoy camping in the wilderness, Sleeping under the stars is magical,1
+I prefer action movies over romance, Thrillers keep me on the edge of my seat,0
+I prefer action movies over romance, Explosive scenes in movies are adrenaline-pumping,1
+I enjoy dancing to upbeat music, I'm not a fan of dancing,0
+I enjoy dancing to upbeat music, Moving to the rhythm is invigorating,1
+I prefer spicy food over bland food, Mild flavors don't excite my taste buds,0
+I prefer spicy food over bland food, Adding heat to dishes adds dimension,1
+I enjoy attending art galleries, I find museums boring,0
+I enjoy attending art galleries, Appreciating artwork is enriching,1
+Coffee shops are cozy hangout spots, Bars are lively places to socialize,0
+Coffee shops are cozy hangout spots, Sipping coffee while chatting is relaxing,1
+I enjoy picnics in the park, Dining at fancy restaurants is enjoyable,0
+I enjoy picnics in the park, Sharing food outdoors is delightful,1
+I prefer wearing sneakers over high heels, Comfort is important when choosing shoes,0
+I prefer wearing sneakers over high heels, Sneakers are versatile and practical,1
+I enjoy stargazing on clear nights, Cloudy skies obscure the stars,0
+I enjoy stargazing on clear nights, Watching constellations is awe-inspiring,1
+Pizza is my favorite comfort food, Salad is a healthier meal option,0
+Pizza is my favorite comfort food, Toppings make pizza irresistible,1
+I enjoy DIY projects, Buying pre-made items is convenient,0
+I enjoy DIY projects, Creating something with my own hands is fulfilling,1
+Reading novels is my hobby, Playing video games is my way of relaxing,0
+Reading novels is my hobby, Diving into fictional worlds is captivating,1
+I prefer long walks in nature, Jogging is a great way to stay fit,0
+I prefer long walks in nature, Nature walks clear the mind,1
+I enjoy baking cakes from scratch, Store-bought cakes lack freshness,0
+I enjoy baking cakes from scratch, Decorating cakes is a creative outlet,1
+I prefer mornings over evenings, Mornings are full of possibilities,0
+evenings, Mornings are peaceful,1
+I enjoy painting landscapes, I'm not very artistic,0
+I enjoy painting landscapes, Mixing colors is therapeutic,1
+I prefer hot weather over cold weather, Cold weather makes me feel sluggish,0
+I prefer hot weather over cold weather, Sunshine boosts my mood,1
+I like watching comedy shows, Horror movies give me nightmares,0
+I like watching comedy shows, Laughing is good for the soul,1
+I prefer texting over calling, Phone calls make me anxious,0
+I prefer texting over calling, Texting allows for quick communication,1
+I enjoy playing board games with friends, I find board games boring,0
+I enjoy playing board games with friends, Game nights are a great way to bond,1
+I prefer writing with a pen, Typing is faster but less personal,0
+I prefer writing with a pen, Penmanship reflects personality,1
+I love eating spicy food, Mild flavors don't excite me,0
+I love eating spicy food, Heat adds an extra kick to dishes,1
+I prefer reading fiction, Non-fiction books feel dry to me,0
+I prefer reading fiction, Imagination knows no bounds in fiction,1
+I enjoy going to the beach, Crowded places overwhelm me,0
+I enjoy going to the beach, Waves crashing soothe my soul,1
+I prefer wearing casual clothes, Formal attire feels restricting,0
+I prefer wearing casual clothes, Comfort is key in clothing choices,1
+I like taking long showers, Short showers feel rushed,0
+I like taking long showers, Showers help me unwind,1
+I enjoy photography as a hobby, I'm not very good at taking pictures,0
+I enjoy photography as a hobby, Capturing moments is priceless,1
+I prefer sweet snacks over savory snacks, Salty snacks make me thirsty,0
+I prefer sweet snacks over savory snacks, Indulging in sweets is satisfying,1
+I enjoy gardening in my backyard, I don't have a green thumb,0
+I enjoy gardening in my backyard, Watching plants grow is rewarding,1
+I like listening to classical music, Heavy metal music gives me a headache,0
+I like listening to classical music, Classical music has a calming effect,1
+I prefer dogs as pets, Cats are too aloof for my liking,0
+I prefer dogs as pets, Dogs are loyal companions,1
+I enjoy going for walks in the park, I'd rather stay indoors,0
+I enjoy going for walks in the park, Nature walks rejuvenate me,1
+I prefer cooking meals at home, Eating out is expensive,0
+I prefer cooking meals at home, Cooking is a form of self-expression,1
+I enjoy watching documentaries, Reality TV shows seem fake to me,0
+I enjoy watching documentaries, Learning about real-life events is fascinating,1
+I like to travel to exotic destinations, I'm a homebody,0
+I like to travel to exotic destinations, Exploring new cultures enriches my life,1
+I prefer coffee over tea, Tea stains my teeth,0
+I prefer coffee over tea, The aroma of coffee wakes me up,1
+I enjoy playing video games in my free time, I'm not interested in gaming,0
+I enjoy playing video games in my free time, Gaming helps me unwind,1
+I prefer driving over public transportation, Traffic jams frustrate me,0
+I prefer driving over public transportation, Driving gives me a sense of independence,1
+I enjoy skiing in the mountains, I'm not very athletic,0
+I enjoy skiing in the mountains, Gliding down slopes is exhilarating,1
+I prefer spicy food over bland food, Mild flavors bore me,0
+I prefer spicy food over bland food, Spicy dishes excite my taste buds,1
+I like to spend time alone, I get lonely easily,0
+I like to spend time alone, Solitude rejuvenates me,1
+I prefer watching movies at home, Going to the cinema is too expensive,0
+I prefer watching movies at home, Movie nights at home are cozy,1
+I enjoy baking cookies from scratch, Store-bought cookies taste bland,0
+I enjoy baking cookies from scratch, Baking is a therapeutic activity,1
+I prefer hiking in the mountains, I don't enjoy outdoor activities,0
+I prefer hiking in the mountains, Connecting with nature energizes me,1
+I enjoy attending live concerts, I find concerts too loud,0
+I enjoy attending live concerts, Live music performances are electrifying,1
+I prefer reading physical books, E-books strain my eyes,0
+I prefer reading physical books, Holding a book feels comforting,1
+I like to drink herbal tea before bed, Coffee keeps me up at night,0
+I like to drink herbal tea before bed, Herbal tea relaxes me,1
+I prefer beach vacations over city vacations, Cities feel too crowded for me,0
+I prefer beach vacations over city vacations, Relaxing by the ocean is therapeutic,1
+I enjoy going for bike rides, I'm not very coordinated,0
+I enjoy going for bike rides, Cycling is a great way to explore,1
+I prefer listening to podcasts over radio, Radio commercials annoy me,0
+I prefer listening to podcasts over radio, Podcasts offer diverse content,1
+I like to exercise outdoors, Gym workouts feel monotonous,0
+I like to exercise outdoors, Nature provides a refreshing backdrop,1
+I prefer spicy food over sweet food, Sweet desserts are too sugary for me,0
+I prefer spicy food over sweet food, Spicy dishes tantalize my taste buds,1
+I enjoy watching sunsets by the beach, I'm not a fan of beaches,0
+I enjoy watching sunsets by the beach, Sunsets are breathtaking moments,1
+I prefer taking baths over showers, Baths feel like a luxury,0
+I prefer taking baths over showers, Soaking in a bath is relaxing,1
+I like to watch sports on TV, I find sports boring,0
+I like to watch sports on TV, Sports events bring people together,1
+I enjoy camping in the wilderness, I'm not comfortable outdoors,0
+I enjoy camping in the wilderness, Camping under the stars is magical,1
+I prefer wearing jeans over dresses, Dresses feel too formal for me,0
+I prefer wearing jeans over dresses, Jeans are versatile and comfortable,1
+I enjoy cooking meals from scratch, I prefer ready-made meals,0
+I enjoy cooking meals from scratch, Cooking allows for creativity,1
+I like to visit historical sites, I'm not interested in history,0
+I like to visit historical sites, Exploring the past is fascinating,1
+I prefer drinking water over soda, Soda is too sugary for me,0
+I prefer drinking water over soda, Staying hydrated is important,1
+I enjoy playing musical instruments, I'm not musically inclined,0
+I enjoy playing musical instruments, Music is a universal language,1
+I prefer watching TV shows over movies, Movies are too long for me,0
+I prefer watching TV shows over movies, TV shows offer episodic entertainment,1
+I like to go for walks in nature, I prefer staying indoors,0
